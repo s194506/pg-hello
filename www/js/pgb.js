@@ -20,3 +20,14 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myInfo() {
+
+	info =  'Hi, I am Kamil Roganowicz :-)' + '\n' +
+			'=====' + '\n' +
+			'My Name Kamil   + '\n' + 
+			'My Last Name: Roganowicz '\n';
+
+	navigator.notification.alert(info);
+	
+}
