@@ -26,7 +26,7 @@ function myInformation() {
 	information =  'Hi, I am Kamil Roganowicz :-)' + '\n' +
 			'=====' + '\n' +
 			'My Name Kamil  ' + '\n' + 
-			'My Last Name: Roganowicz '\n';
+			'My Last Name: Roganowicz ' + '\n';
 
 	navigator.notification.alert(information);
 	
